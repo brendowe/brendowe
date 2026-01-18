@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Olá, eu sou Brendo Washington
 
-<!--
-**brendowe/brendowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desenvolvedor Back-End em formação**, com foco em **Node.js**, **SQL** e construção de **APIs REST**.
 
-Here are some ideas to get you started:
+Tenho como objetivo conquistar uma vaga como **Estagiário ou Dev Back-End Júnior**, aplicando boas práticas, lógica sólida e código limpo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mim
+
+* 🎯 Foco exclusivo em **Back-End**
+* 📚 Estudo constante de lógica, SQL e arquitetura básica de APIs
+* 🧠 Prezo por código legível, organizado e seguro
+* 🔍 Busco entender os fundamentos, não apenas replicar soluções
+
+---
+
+## 🛠️ Tecnologias
+
+* Node.js
+* Express.js
+* APIs REST
+* Autenticação e autorização (JWT)
+* Hash de senhas (bcrypt)
+* Testes unitários
+* MySQL
+* Modelagem de dados
+* Testes unitários com Jest
+* MySQL
+* Git & GitHub
+* Postman
+* Validação de dados com Joi
+* CORS
+* Helmet
