@@ -9,26 +9,21 @@ Tenho como objetivo conquistar uma vaga como **Estagiário ou Dev Back-End Júni
 ## 🚀 Sobre mim
 
 * 🎯 Foco exclusivo em **Back-End**
-* 📚 Estudo constante de lógica, SQL e arquitetura básica de APIs
+* 📚 Estudo constante de lógica, SQL e arquitetura de APIs
 * 🧠 Prezo por código legível, organizado e seguro
 * 🔍 Busco entender os fundamentos, não apenas replicar soluções
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias e Habilidades
 
 * Node.js
 * Express.js
-* APIs REST
 * Autenticação e autorização (JWT)
 * Hash de senhas (bcrypt)
-* Testes unitários
-* MySQL
-* Modelagem de dados
 * Testes unitários com Jest
 * MySQL
+* Modelagem de dados
 * Git & GitHub
 * Postman
 * Validação de dados com Joi
-* CORS
-* Helmet
